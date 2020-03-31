@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f02300d0-e4e4-442b-9ffe-2f8b3ad8bcef" name="Default Changelist" comment="" />
+    <list default="true" id="f02300d0-e4e4-442b-9ffe-2f8b3ad8bcef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/CandyflossStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/IceCreamStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/IceCreamStall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/Stall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stalls/TobaccoStall.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -19,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZtpzsgtDYW7wx7icECMUVopauT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -137,25 +147,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1585671689215">
+    <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1585682756234">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1585671689215" />
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1585673553516">
+    <state x="533" y="156" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1585682756234" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1585673796264">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1585673553516" />
-    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1585673553515">
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1585673796264" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1585673796263">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1585673553515" />
-    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1585673553515">
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1585673796263" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1585673796263">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1585673553515" />
-    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1585673553516">
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1585673796263" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1585673796264">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1585673553516" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1585673796264" />
   </component>
 </project>
